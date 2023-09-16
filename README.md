@@ -2,7 +2,7 @@
 
 `use deffect` for react.
 
-The same `useEffect` as always, just as defective.
+The same `useEffect` as always, just as defective. 👌
 
 ## Installation
 
