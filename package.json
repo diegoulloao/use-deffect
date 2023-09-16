@@ -1,6 +1,6 @@
 {
   "name": "deffect",
-  "version": "1.0.0-rc4",
+  "version": "1.0.0",
   "description": "use effect as use deffect for react",
   "main": "index.js",
   "type": "module",
