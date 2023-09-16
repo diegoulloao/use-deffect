@@ -1,0 +1,22 @@
+{
+  "name": "deffect",
+  "version": "1.0.0-rc1",
+  "description": "use effect as use deffect for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "effect",
+    "deffect"
+  ],
+  "author": "diegoulloao",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.11.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
