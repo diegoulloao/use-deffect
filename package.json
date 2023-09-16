@@ -1,8 +1,9 @@
 {
   "name": "deffect",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "description": "use effect as use deffect for react",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
