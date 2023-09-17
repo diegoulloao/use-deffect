@@ -27,3 +27,9 @@ const Component = (props) => {
 ## License
 
 Licensed **[MIT](https://github.com/diegoulloao/use-deffect/blob/main/LICENSE)**
+
+---
+
+### Goodbye, useEffect - David Khourshid 👇
+
+[<img src="https://i.ytimg.com/vi/bGzanfKVFeU/hq720.jpg" width="50%">](https://www.youtube.com/watch?v=bGzanfKVFeU "Goodbye, useEffect - David Khourshid")
